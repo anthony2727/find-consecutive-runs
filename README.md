@@ -5,4 +5,5 @@ Given an array of unsorted positive integers, write a function that finds runs o
 
 Example:  
 Array: [1, 2, 3, 5, 10, 9, 8, 9, 10, 11, 7] 
+
 Returns: [0, 4, 6, 7]
